@@ -1,2 +1,2 @@
 # MyFolder
-Some JS coding from "QA Automation for everyone" tasks
+JS Codewars coding and some JS coding tasks from "QA Automation for everyone"
